@@ -1,4 +1,4 @@
-my_str = input("Please enter your own String : ")
+my_str = input("Please input a String :) : ")
 str = ''
 for i in my_str:
     str = i + str
